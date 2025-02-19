@@ -150,6 +150,28 @@ print(emmetified)
 
 See the [examples](./examples/README.md) directory for more examples of how to use Emmetify.
 
+## Sponsors
+
+<table>
+  <tr>
+    <td align="center" vertical-align="center">
+      <a href="https://www.rumblefish.dev/?utm_source=github_Emmetify&utm_medium=link&utm_campaign=sponsorship" >
+        <img src="https://strapi-uploads.rumblefish.dev/rf_circle_colour.png" width="120px;" alt="Rumble Fish Logo" />
+      </a>
+    </td>
+    <td align="center" vertical-align="center">
+      <b>Rumble Fish</b>
+      <br />
+      <a href="https://www.rumblefish.dev/?utm_source=github_Emmetify&utm_medium=link&utm_campaign=sponsorship">https://rumblefish.dev</a>
+      <br />
+      <p width="100px">
+        Rumble Fish a software development house crafting bespoke Web3 and AI-powered solutions
+        <br/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## Backlog 📝
 
 - [x] Add support for HTML
